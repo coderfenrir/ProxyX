@@ -26,7 +26,8 @@ Developer: @coderfenrir
    ```
 
 4. kütüphaneler kur:
-   ```pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
    ```
    
 6. Python ile çalıştır:
