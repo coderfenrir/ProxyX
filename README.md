@@ -25,7 +25,10 @@ Developer: @coderfenrir
    ls
    ```
 
-4. Python ile çalıştır:
+4. kütüphaneler kur:
+   ```pip install -r requirements.txt```
+   
+5. Python ile çalıştır:
    ```bash
    python ProxyX.py
    ```
