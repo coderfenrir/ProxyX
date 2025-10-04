@@ -3,7 +3,7 @@
 Bu proje **ProxyX.py** dosyasını içerir.  
 Developer: @coderfenrir
 
-Otomatik olarak Termux üzerinden yüklenmiştir.
+İyi kullanımlar dileriz.
 
 ## 📷 Kullanım Görseli
 ![Kullanım Screenshot](https://i.ibb.co/Kc7Ncj84/Screenshot-2025-10-04-23-27-35-646-com-termux-edit.jpg)
