@@ -6,7 +6,7 @@ Developer: @coderfenrir
 İyi kullanımlar dileriz.
 
 ## 📷 Kullanım Görseli
-![Kullanım Screenshot](https://i.ibb.co/Kc7Ncj84/Screenshot-2025-10-04-23-27-35-646-com-termux-edit.jpg)
+![Kullanım Screenshot](https://i.ibb.co/Xx3Yw709/Screenshot-2025-12-05-21-18-47-591-com-termux-edit.jpg)
 
 ## 🛠️ Kullanım Talimatı
 
